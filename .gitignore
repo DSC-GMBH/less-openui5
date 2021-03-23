@@ -56,4 +56,3 @@ yarn.lock
 
 # Don't include private SSH key for deployment via Travis CI
 deploy_key
-package-lock.json
